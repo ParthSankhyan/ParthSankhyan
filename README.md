@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthsankhyan&label=Profile%20views&color=0e75b6&style=flat" alt="parthsankhyan" /> </p>
 
-- 📫 Contact Me At**parthsankhyanofficial@gmail.com**
+- 📫 Contact Me At **parthsankhyanofficial@gmail.com**
 
 - 📄 Check Out My Resume [Here](https://drive.google.com/file/d/1FVOc2kI-rDzJhluAB2r5ib7VmgWz6YfL/view?usp=drivesdk)
 

@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **parthsankhyanofficial@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FVOc2kI-rDzJhluAB2r5ib7VmgWz6YfL/view?usp=drivesdk](https://drive.google.com/file/d/1FVOc2kI-rDzJhluAB2r5ib7VmgWz6YfL/view?usp=drivesdk)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1FVOc2kI-rDzJhluAB2r5ib7VmgWz6YfL/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

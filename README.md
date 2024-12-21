@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Parth Sankhyan</h1>
-<h3 align="center">I Am From Bilaspur Himachal Pradesh I am A Civil Engineering Student</h3>
+<h3 align="center">I Am From Bilaspur Himachal Pradesh
+  I am A Civil Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthsankhyan&label=Profile%20views&color=0e75b6&style=flat" alt="parthsankhyan" /> </p>
 
-- 📫 How to reach me **parthsankhyanofficial@gmail.com**
+- 📫 Contact Me At**parthsankhyanofficial@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1FVOc2kI-rDzJhluAB2r5ib7VmgWz6YfL/view?usp=drivesdk)
+- 📄 Check Out My Resume [Here](https://drive.google.com/file/d/1FVOc2kI-rDzJhluAB2r5ib7VmgWz6YfL/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

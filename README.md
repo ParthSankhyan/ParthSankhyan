@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parth Sankhyan</h1>
 <h3 align="center">I Am From Bilaspur Himachal Pradesh I am A Civil Engineering Student</h3>
+<img width="450px;" src="https://drive.google.com/file/d/1FaC6OtI5H9LY5hclQJm0F5nhAmrjbQiI/view?usp=drivesdk"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthsankhyan&label=Profile%20views&color=0e75b6&style=flat" alt="parthsankhyan" /> </p>
 
 - 📫 Mail Me At **parthsankhyanofficial@gmail.com**

@@ -1,6 +1,7 @@
 ![MasterHead](https://github.com/ParthSankhyan/ParthSankhyan/blob/main/IMG_20241222_133529.png)
 <h1 align="center"> Hi  I'm Parth Sankhyan</h1>
-<h3 align="center"> I am A Civil Engineering Student I Love To Do Programing </h3>
+<h2 align="center"> I am A Civil Engineer  </h2>
+<h3 align="center"> I Like Programing </h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/ParthSankhyan/ParthSankhyan/blob/main/20241228_005329.png"
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthsankhyan&label=Profile%20views&color=0e75b6&style=flat" alt="parthsankhyan" /> </p>

@@ -10,7 +10,7 @@
 
 -📘 Check Out My Resume  [Here](https://drive.google.com/file/d/14c3iXuH6M9chUD-D6EdQT1vhNFUY0zWD/view?usp=drivesdk)
 
--📕 Check Out My Portfolio Website [Here](https://parthsharma.github.io/portfolio-) 
+-📕 Check Out My Portfolio Website [Here](https://parthsharma.github.io/Portfolio-) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

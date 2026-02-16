@@ -2,8 +2,7 @@
 <h1 align="center"> Hi  I'm Parth Sharma</h1>
 <h2 align="center"> I am A Civil Engineer  </h2>
 <h3 align="center"> I Like Programing </h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/ParthSankhyan/ParthSankhyan/blob/main/20241228_005329.png"
-" alt="parthsankhyan" /> </p>
+<img align="right" alt="Coding" width="400" 
 
 - 📫 Mail Me At **parthsharma73353@gmail.com**
 

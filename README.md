@@ -6,11 +6,9 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthsankhyan&label=Profile%20views&color=0e75b6&style=flat" alt="parthsankhyan" /> </p>
 
-- 📫 Mail Me At **parthsankhyanofficial@gmail.com**
+- 📫 Mail Me At **parthsharma73353@gmail.com**
 
--📘 Check Out My Resume  [Here](https://drive.google.com/file/d/14c3iXuH6M9chUD-D6EdQT1vhNFUY0zWD/view?usp=drivesdk)
 
--📕 Check Out My Portfolio Website [Here](https://parthsankhyan.github.io/Portfolio-) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

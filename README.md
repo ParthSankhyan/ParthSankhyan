@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi  I'm Parth Sharma</h1>
-<h2 align="center"> I am A Civil Engineer  </h2>
-<h3 align="center"> I Like Programing </h3>
+<h2 align="center"> I am A Digital Marketing Executive  </h2>
+<h3 align="center"> Institute Cbitss Institute Sector 34A Chandighar </h3>
 
 
 - 📫 Mail Me At **parthsharma73353@gmail.com**

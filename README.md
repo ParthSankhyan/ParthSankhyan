@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi  I'm Parth Sharma</h1>
 <h2 align="center"> I am A Digital Marketing Executive  </h2>
-<h3 align="center"> Institute Cbitss Institute Sector 34A Chandighar </h3>
+<h3 align="center"> Cbitss Institute Sector 34A Chandighar </h3>
 
 
 - 📫 Mail Me At **parthsharma73353@gmail.com**
